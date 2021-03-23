@@ -1,0 +1,8 @@
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\bin\Debug\netcoreapp3.1\ImportFileCsv.Core.deps.json
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\bin\Debug\netcoreapp3.1\ImportFileCsv.Core.dll
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\bin\Debug\netcoreapp3.1\ImportFileCsv.Core.pdb
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\netcoreapp3.1\ImportFileCsv.Core.AssemblyInfoInputs.cache
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\netcoreapp3.1\ImportFileCsv.Core.AssemblyInfo.cs
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\netcoreapp3.1\ImportFileCsv.Core.csproj.CoreCompileInputs.cache
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\netcoreapp3.1\ImportFileCsv.Core.dll
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\netcoreapp3.1\ImportFileCsv.Core.pdb

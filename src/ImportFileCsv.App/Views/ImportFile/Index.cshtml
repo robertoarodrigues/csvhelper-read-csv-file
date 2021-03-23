@@ -1,0 +1,21 @@
+﻿@model ImportFileCsv.App.Models.FileModel
+
+@{
+    ViewData["Title"] = "Importar Arquivo";
+}
+
+<form enctype="multipart/form-data" asp-action="ImportFile">
+    <div class="form-group">
+        <label asp-for="File" class="control-label"></label>
+
+        <div class="custom-file">
+            <input type="file" class="custom-file-input" id="File" asp-for="File">
+            <label data-browse="Procurar" style="width: 400px" class="custom-file-label" for="File"></label>
+            <label style="display: none" id="img_nome"></label>
+        </div>
+
+        <span asp-validation-for="File" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="Cadastrar" class="btn btn-primary" />
+</form>

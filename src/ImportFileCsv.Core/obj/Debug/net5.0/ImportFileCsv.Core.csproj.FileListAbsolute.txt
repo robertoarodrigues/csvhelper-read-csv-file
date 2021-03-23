@@ -1,0 +1,12 @@
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\bin\Debug\net5.0\ImportFileCsv.Core.deps.json
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\bin\Debug\net5.0\ImportFileCsv.Core.dll
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\bin\Debug\net5.0\ref\ImportFileCsv.Core.dll
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\bin\Debug\net5.0\ImportFileCsv.Core.pdb
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ImportFileCsv.Core.csprojAssemblyReference.cache
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ImportFileCsv.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ImportFileCsv.Core.AssemblyInfoInputs.cache
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ImportFileCsv.Core.AssemblyInfo.cs
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ImportFileCsv.Core.csproj.CoreCompileInputs.cache
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ImportFileCsv.Core.dll
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ref\ImportFileCsv.Core.dll
+C:\Sources\app-modelo-import-file-csv\src\ImportFileCsv.Core\obj\Debug\net5.0\ImportFileCsv.Core.pdb

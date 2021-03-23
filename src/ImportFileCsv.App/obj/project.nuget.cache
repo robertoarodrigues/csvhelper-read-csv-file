@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iq4ZJWuzqmhYNNRk/sly8qeVlWI02PhNiFbTEzlh35PmssBpcJrpLMW3ODAP7cmTaTOYj9PD4zu+vzSB/UwUcA==",
+  "success": true,
+  "projectFilePath": "C:\\Sources\\app-modelo-import-file-csv\\src\\ImportFileCsv.App\\ImportFileCsv.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\csvhelper\\26.0.1\\csvhelper.26.0.1.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.3\\fluentvalidation.aspnetcore.9.5.3.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.3\\fluentvalidation.dependencyinjectionextensions.9.5.3.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
